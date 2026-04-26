@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  body {
+    @apply bg-surface text-white font-sans antialiased;
+    background: #0F0F13;
+  }
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: #1A1A24; }
+  ::-webkit-scrollbar-thumb { background: #3B3B52; border-radius: 3px; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-brand hover:bg-brand-dark active:scale-95 text-white font-semibold py-2 px-5 rounded-xl transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-ghost {
+    @apply border border-surface-border hover:bg-surface-card text-white font-medium py-2 px-5 rounded-xl transition-all duration-200;
+  }
+  .card {
+    @apply bg-surface-card border border-surface-border rounded-2xl;
+  }
+  .input {
+    @apply bg-surface-card border border-surface-border rounded-xl px-4 py-2.5 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-brand focus:border-transparent w-full transition-all;
+  }
+  .blurred-comment {
+    filter: blur(6px);
+    user-select: none;
+    transition: filter 0.2s;
+  }
+  .blurred-comment:hover {
+    filter: blur(3px);
+  }
+  .nav-icon {
+    @apply p-2.5 rounded-xl hover:bg-surface-card text-gray-400 hover:text-white transition-all duration-200 cursor-pointer;
+  }
+  .avatar {
+    @apply rounded-full object-cover bg-surface-border;
+  }
+  .gradient-ring {
+    background: linear-gradient(135deg, #8B5CF6, #EC4899, #F59E0B);
+    padding: 2px;
+    border-radius: 50%;
+  }
+}

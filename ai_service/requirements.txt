@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+pytesseract
+Pillow
+pydantic
+python-multipart
+tiktoken
+sentencepiece
