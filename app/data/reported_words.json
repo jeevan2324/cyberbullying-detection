@@ -1,0 +1,30 @@
+[
+    {
+        "word": "idiot",
+        "reports": [
+            {
+                "user_id": "user001",
+                "toxicity_score": 0.8
+            },
+            {
+                "user_id": "user002",
+                "toxicity_score": 0.9
+            },
+            {
+                "user_id": "user005",
+                "toxicity_score": 0.87
+            },
+            {
+                "user_id": "user004",
+                "toxicity_score": 0.88
+            },
+            {
+                "user_id": "user003",
+                "toxicity_score": 0.85
+            }
+        ],
+        "report_count": 5,
+        "average_toxicity": 0.86,
+        "verified": true
+    }
+]

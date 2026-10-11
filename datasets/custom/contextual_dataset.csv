@@ -1,0 +1,38 @@
+text,language,toxic,category,context
+"You're an idiot and I hate you.",en,1,insult,direct
+"You are completely worthless.",en,1,insult,direct
+"Nobody wants you here. Leave.",en,1,harassment,direct
+"You are pathetic and useless.",en,1,insult,direct
+"I hope you fail at everything.",en,1,harassment,direct
+"You're such an idiot 😂, love you bro.",en,0,insult,friendly
+"My idiot friend forgot his phone again 😂.",en,0,insult,friendly
+"You crazy guy 😂, you're my best friend.",en,0,insult,friendly
+"Bro, you're such a fool 😂.",en,0,insult,friendly
+"You idiot, I can't stop laughing 😂.",en,0,insult,friendly
+"I think you're wrong, but I respect your opinion.",en,0,disagreement,respectful
+"I disagree with you, but let's discuss it.",en,0,disagreement,respectful
+"You're funny, bro.",en,0,joke,friendly
+"That was a stupid decision, but we can fix it.",en,0,criticism,constructive
+"Can you please explain what you mean?",en,0,discussion,normal
+
+"तुम बहुत बेवकूफ हो और मैं तुमसे नफरत करता हूँ।",hi,1,insult,direct
+"तुम बिल्कुल बेकार हो।",hi,1,insult,direct
+"यहाँ कोई तुम्हें पसंद नहीं करता।",hi,1,harassment,direct
+"तुम बहुत घटिया इंसान हो।",hi,1,insult,direct
+"मुझे उम्मीद है तुम हर चीज़ में असफल हो।",hi,1,harassment,direct
+"तू कितना बेवकूफ है 😂, लेकिन तू मेरा सबसे अच्छा दोस्त है।",hi,0,insult,friendly
+"मेरा बेवकूफ दोस्त फिर से अपना फोन भूल गया 😂।",hi,0,insult,friendly
+"तू पागल है 😂, लेकिन मेरा अच्छा दोस्त है।",hi,0,insult,friendly
+"अरे बेवकूफ, मुझे हँसाना बंद कर 😂।",hi,0,insult,friendly
+"तुम गलत हो, लेकिन मैं तुम्हारी राय का सम्मान करता हूँ।",hi,0,disagreement,respectful
+
+"Tu bahut stupid hai aur mujhe tujhse nafrat hai.",hin,1,insult,direct
+"Tu bilkul useless hai.",hin,1,insult,direct
+"Yahan koi tujhe pasand nahi karta, leave kar.",hin,1,harassment,direct
+"Tu bahut pathetic hai.",hin,1,insult,direct
+"Tu fail hi hoga har cheez mein.",hin,1,harassment,direct
+"Tu ekdum idiot hai 😂, love you bro.",hin,0,insult,friendly
+"Mera idiot friend phir se phone bhool gaya 😂.",hin,0,insult,friendly
+"Bro tu pagal hai 😂, but tu mera best friend hai.",hin,0,insult,friendly
+"Tu kya stupid hai yaar 😂.",hin,0,insult,friendly
+"Tu galat hai bro, but I respect your opinion.",hin,0,disagreement,respectful

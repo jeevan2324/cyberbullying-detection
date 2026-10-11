@@ -1,0 +1,33 @@
+text,language,toxic,category,context
+"You're an idiot and I hate you.",en,1,insult,direct
+"You're such an idiot 😂, love you bro.",en,0,insult,friendly
+"My idiot friend forgot his phone again 😂.",en,0,insult,friendly
+"You are worthless and nobody likes you.",en,1,insult,direct
+"You're crazy 😂 but you're my best friend.",en,0,insult,friendly
+"Get lost, nobody wants you here.",en,1,harassment,direct
+"I think you're wrong, but I respect your opinion.",en,0,disagreement,respectful
+"You're a stupid person and everyone hates you.",en,1,harassment,direct
+"Bro, you're such a fool 😂.",en,0,insult,friendly
+"That was a stupid decision, but we can fix it.",en,0,criticism,constructive
+
+"तुम बहुत बेवकूफ हो और मैं तुमसे नफरत करता हूँ।",hi,1,insult,direct
+"तू कितना बेवकूफ है 😂, लेकिन तू मेरा सबसे अच्छा दोस्त है।",hi,0,insult,friendly
+"मेरा बेवकूफ दोस्त फिर से फोन भूल गया 😂।",hi,0,insult,friendly
+"तुम बिल्कुल बेकार हो।",hi,1,insult,direct
+"तू पागल है 😂, लेकिन मेरा अच्छा दोस्त है।",hi,0,insult,friendly
+"यहाँ कोई तुम्हें पसंद नहीं करता।",hi,1,harassment,direct
+"तुम गलत हो, लेकिन मैं तुम्हारी राय का सम्मान करता हूँ।",hi,0,disagreement,respectful
+"तुम बहुत घटिया इंसान हो।",hi,1,insult,direct
+"अरे बेवकूफ, मुझे हँसाना बंद कर 😂।",hi,0,insult,friendly
+"मैं तुमसे सहमत नहीं हूँ, लेकिन तुम्हारी बात समझता हूँ।",hi,0,disagreement,respectful
+
+"Tu bahut stupid hai aur mujhe tujhse nafrat hai.",hin,1,insult,direct
+"Tu ekdum idiot hai 😂, love you bro.",hin,0,insult,friendly
+"Mera idiot friend phir se phone bhool gaya 😂.",hin,0,insult,friendly
+"Tu bilkul useless hai.",hin,1,insult,direct
+"Bro tu pagal hai 😂, but tu mera best friend hai.",hin,0,insult,friendly
+"Yahan koi tujhe pasand nahi karta, leave kar.",hin,1,harassment,direct
+"Tu galat hai bro, but I respect your opinion.",hin,0,disagreement,respectful
+"Tu bahut pathetic hai.",hin,1,insult,direct
+"Arre idiot, idhar aa 😂.",hin,0,insult,friendly
+"Main tumse agree nahi karta, but I understand your point.",hin,0,disagreement,respectful

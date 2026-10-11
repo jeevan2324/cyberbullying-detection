@@ -1,0 +1,107 @@
+text,language,toxic,category,context
+"You're an idiot and I hate you.",en,1,insult,direct
+"You're completely worthless.",en,1,insult,direct
+"Nobody likes you. Just leave.",en,1,harassment,direct
+"You are pathetic and useless.",en,1,insult,direct
+"You're a disgusting person.",en,1,insult,direct
+"Everyone here thinks you're a loser.",en,1,harassment,direct
+"You're such a failure.",en,1,insult,direct
+"Get lost, nobody wants you here.",en,1,harassment,direct
+"You are stupid and nobody respects you.",en,1,insult,direct
+"You're a horrible human being.",en,1,insult,direct
+"I hate everything about you.",en,1,harassment,direct
+"You're such a loser.",en,1,insult,direct
+"Nobody wants to be your friend.",en,1,harassment,direct
+"You're useless to everyone.",en,1,insult,direct
+"You make everyone miserable.",en,1,harassment,direct
+"You're such an idiot 😂, love you bro.",en,0,insult,friendly
+"My idiot friend forgot his phone again 😂.",en,0,insult,friendly
+"Bro, you're crazy 😂 but you're my best friend.",en,0,insult,friendly
+"You're a fool, but I still love you 😂.",en,0,insult,friendly
+"You silly idiot, come here 😂.",en,0,insult,friendly
+"My stupid friend is late again 😂.",en,0,insult,friendly
+"You're crazy man 😂, let's go.",en,0,insult,friendly
+"Bro you're such a fool 😂.",en,0,insult,friendly
+"Idiot 😂, you made me laugh again.",en,0,insult,friendly
+"You're an idiot but you're my favorite person.",en,0,insult,friendly
+"I think you're wrong, but I respect your opinion.",en,0,disagreement,respectful
+"I disagree with you, but I understand your point.",en,0,disagreement,respectful
+"That idea is wrong, but let's discuss it.",en,0,criticism,constructive
+"I don't agree with you, but that's okay.",en,0,disagreement,respectful
+"Can you explain why you think that?",en,0,discussion,normal
+"Let's talk about this calmly.",en,0,discussion,normal
+"That was a bad decision, but we can fix it.",en,0,criticism,constructive
+"You're funny, bro 😂.",en,0,joke,friendly
+"That was hilarious 😂.",en,0,joke,friendly
+"Let's meet tomorrow and talk about it.",en,0,discussion,normal
+"You're really annoying sometimes, but you're my friend.",en,0,insult,friendly
+"तुम बहुत बेवकूफ हो और मैं तुमसे नफरत करता हूँ।",hi,1,insult,direct
+"तुम बिल्कुल बेकार हो।",hi,1,insult,direct
+"यहाँ कोई तुम्हें पसंद नहीं करता।",hi,1,harassment,direct
+"तुम बहुत घटिया इंसान हो।",hi,1,insult,direct
+"तुम एक बेकार इंसान हो।",hi,1,insult,direct
+"सब लोग तुम्हें नापसंद करते हैं।",hi,1,harassment,direct
+"तुम बहुत घटिया हो।",hi,1,insult,direct
+"यहाँ से चले जाओ, कोई तुम्हें नहीं चाहता।",hi,1,harassment,direct
+"तुम बेवकूफ हो और कोई तुम्हारी इज्जत नहीं करता।",hi,1,insult,direct
+"तुम बहुत खराब इंसान हो।",hi,1,insult,direct
+"मुझे तुमसे बहुत नफरत है।",hi,1,harassment,direct
+"तुम बहुत शर्मनाक इंसान हो।",hi,1,insult,direct
+"कोई तुम्हारा दोस्त नहीं बनना चाहता।",hi,1,harassment,direct
+"तुम किसी के काम के नहीं हो।",hi,1,insult,direct
+"तुम सबको परेशान करते हो।",hi,1,harassment,direct
+"तू कितना बेवकूफ है 😂, लेकिन तू मेरा सबसे अच्छा दोस्त है।",hi,0,insult,friendly
+"मेरा बेवकूफ दोस्त फिर से फोन भूल गया 😂।",hi,0,insult,friendly
+"तू पागल है 😂, लेकिन मेरा अच्छा दोस्त है।",hi,0,insult,friendly
+"अरे बेवकूफ, मुझे हँसाना बंद कर 😂।",hi,0,insult,friendly
+"तू कितना मूर्ख है 😂, फिर भी मेरा दोस्त है।",hi,0,insult,friendly
+"मेरा पागल दोस्त आज फिर देर से आया 😂।",hi,0,insult,friendly
+"अरे बेवकूफ, इधर आ 😂।",hi,0,insult,friendly
+"तू तो पूरा पागल है 😂।",hi,0,insult,friendly
+"बेवकूफ 😂, तूने फिर मुझे हँसा दिया।",hi,0,insult,friendly
+"तू बेवकूफ है लेकिन मेरा सबसे अच्छा दोस्त है।",hi,0,insult,friendly
+"तुम गलत हो, लेकिन मैं तुम्हारी राय का सम्मान करता हूँ।",hi,0,disagreement,respectful
+"मैं तुमसे सहमत नहीं हूँ, लेकिन तुम्हारी बात समझता हूँ।",hi,0,disagreement,respectful
+"तुम्हारी बात गलत लगती है, लेकिन इस पर चर्चा कर सकते हैं।",hi,0,criticism,constructive
+"मैं आपकी राय से सहमत नहीं हूँ, लेकिन कोई बात नहीं।",hi,0,disagreement,respectful
+"तुम ऐसा क्यों सोचते हो?",hi,0,discussion,normal
+"चलो इस बारे में शांति से बात करते हैं।",hi,0,discussion,normal
+"यह फैसला अच्छा नहीं था, लेकिन हम इसे ठीक कर सकते हैं।",hi,0,criticism,constructive
+"तुम बहुत मजेदार हो 😂।",hi,0,joke,friendly
+"यह बहुत मजेदार था 😂।",hi,0,joke,friendly
+"कल मिलते हैं और इस बारे में बात करते हैं।",hi,0,discussion,normal
+"Tu bahut stupid hai aur mujhe tujhse nafrat hai.",hin,1,insult,direct
+"Tu bilkul useless hai.",hin,1,insult,direct
+"Yahan koi tujhe pasand nahi karta, leave kar.",hin,1,harassment,direct
+"Tu bahut pathetic hai.",hin,1,insult,direct
+"Sab log tujhse irritate hote hain.",hin,1,harassment,direct
+"Tu stupid hai aur koi tujhe respect nahi karta.",hin,1,insult,direct
+"Tu ek useless person hai.",hin,1,insult,direct
+"Get lost, koi tujhe nahi chahta.",hin,1,harassment,direct
+"Tu bahut ghatiya hai.",hin,1,insult,direct
+"Mujhe tu bilkul pasand nahi hai.",hin,1,harassment,direct
+"Tu kisi kaam ka nahi hai.",hin,1,insult,direct
+"Tu sabko irritate karta hai.",hin,1,harassment,direct
+"Nobody likes you bro, leave.",hin,1,harassment,direct
+"Tu ekdum pathetic hai.",hin,1,insult,direct
+"Tu hamesha sabko disappoint karta hai.",hin,1,harassment,direct
+"Tu ekdum idiot hai 😂, love you bro.",hin,0,insult,friendly
+"Mera idiot friend phir se phone bhool gaya 😂.",hin,0,insult,friendly
+"Bro tu pagal hai 😂, but tu mera best friend hai.",hin,0,insult,friendly
+"Tu kya stupid hai yaar 😂.",hin,0,insult,friendly
+"Arre idiot, idhar aa 😂.",hin,0,insult,friendly
+"Mera stupid dost phir late ho gaya 😂.",hin,0,insult,friendly
+"Tu crazy hai bro 😂.",hin,0,insult,friendly
+"Idiot 😂 tune phir se mujhe hasa diya.",hin,0,insult,friendly
+"Tu fool hai but you're my best friend.",hin,0,insult,friendly
+"Bro tu pagal hai, but I love you 😂.",hin,0,insult,friendly
+"Tu galat hai bro, but I respect your opinion.",hin,0,disagreement,respectful
+"Main tumse agree nahi karta, but I understand your point.",hin,0,disagreement,respectful
+"Ye idea sahi nahi hai, but let's discuss it.",hin,0,criticism,constructive
+"Main tumhari opinion se agree nahi karta, but that's okay.",hin,0,disagreement,respectful
+"Tu aisa kyun sochta hai?",hin,0,discussion,normal
+"Chalo iske baare mein calmly baat karte hain.",hin,0,discussion,normal
+"Ye decision galat tha, but we can fix it.",hin,0,criticism,constructive
+"Tu bahut funny hai bro 😂.",hin,0,joke,friendly
+"Bro that was hilarious 😂.",hin,0,joke,friendly
+"Kal milte hain aur baat karte hain.",hin,0,discussion,normal
